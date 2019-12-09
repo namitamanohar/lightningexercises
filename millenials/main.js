@@ -28,28 +28,6 @@ const words = [
   "families"
 ]
 
-/*
-  Function to filter out `k` words
-  (Google 'javascript startswith' to get started)
-*/
-const kwords = () =>{
-  let newArray =[]
-  for (let index = 0; index < array.length; index++) {
-    const element = array[index];
-    if (element.startsWith("k")){
-      newArray.push
-    }
-  }
-}
-/*
-  Function to build a single string from the array
-  (Google 'javascript combine all items in array' to get started)
-*/
-
-
-/*
-  Invoke the filtering function and store its return value
-*/
 
 
 /*
@@ -58,4 +36,3 @@ const kwords = () =>{
 */
 
 
-console.log()
